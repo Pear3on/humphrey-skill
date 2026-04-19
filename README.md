@@ -36,7 +36,7 @@
 npx skills add alchaincyf/humphrey-skill
 ```
 
-**方式二：手动放入 Claude Code**
+<!-- **方式二：手动放入 Claude Code**
 
 将本仓库克隆或解压后，把整个目录放到 Claude Code 的技能目录，例如：
 
@@ -44,7 +44,7 @@ npx skills add alchaincyf/humphrey-skill
 cp -R humphrey-appleby-perspective ~/.claude/skills/humphrey-appleby-perspective
 ```
 
-（若你的环境使用 `.agents/skills` 等路径，按实际约定放置即可。）
+（若你的环境使用 `.agents/skills` 等路径，按实际约定放置即可。） -->
 
 然后在 Claude Code 里用：
 
