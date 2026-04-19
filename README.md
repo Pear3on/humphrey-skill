@@ -33,7 +33,7 @@
 **方式一：skills 安装（推荐）**
 
 ```bash
-npx skills add Pear3on/humphrey-skill
+npx skills add alchaincyf/humphrey-skill
 ```
 
 **方式二：手动放入 Claude Code**
